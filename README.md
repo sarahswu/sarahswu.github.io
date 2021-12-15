@@ -1,4 +1,4 @@
 # sarahswu.github.io
-my personal website :)
+my personal website
 
-IN THE WORKS!!
+Always changing as I learn more and more! :)
