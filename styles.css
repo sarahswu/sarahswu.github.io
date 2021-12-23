@@ -22,6 +22,12 @@ h1 {
     font-size: 55px;
 }
 
+#typewriter {
+    margin: 0;
+    font-weight: 300;
+    font-size: 55px;
+}
+
 h2 {
     margin: 0;
     font-weight: 400;
@@ -84,7 +90,7 @@ p {
     align-items: center;
     height: 580px;
     padding-bottom: 60px;
-    padding-top: 80px;
+    padding-top: 90px;
 }
 
 #me-img {
