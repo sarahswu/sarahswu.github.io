@@ -10,6 +10,18 @@ img, a {
     color: #352857;
 }
 
+a:hover {
+    color: #cb85c3;
+}
+
+.hover-color path {
+    fill:#352857;
+}
+
+.hover-color:hover path {
+    fill: #cb85c3;
+}
+
 body {
     font-family: "Roboto Mono";
     color: #352857;
