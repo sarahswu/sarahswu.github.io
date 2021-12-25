@@ -114,22 +114,22 @@ p {
 
 #projects-grid {
     display: flex;
-    justify-content: center;
-    max-width: 900px;
-    flex-wrap: wrap
+    justify-content: space-around;
+    max-width: 800px;
+    flex-wrap: wrap;
 }
 
 .card {
     height: 333px;
-    width: 380px;
+    width: 365px;
     border: 4px solid #FDE2E4;
     box-shadow: 4px 4px 5px #FDE2E4;
     border-radius: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 20px;
-    justify-content: center;
+    margin: 20px 0;
+    justify-content: space-between;
 }
 
 .card > img {
@@ -148,7 +148,7 @@ p {
     display: flex;
     flex-direction: column;
     max-width: 762px;
-    padding: 10px 50px;
+    padding: 10px 45px;
     margin: 25px 0;
     align-items: center;
 }
@@ -159,10 +159,11 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 }
 
 .exp > img {
-    width: 300px;
+    height: 250px;
     padding: 10px;
 }
 
